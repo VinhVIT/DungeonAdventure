@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 4f9083d7ad3cadf49800e1c061a0b2cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7046684174531531416
+    second: Blood Effect_0
+  - first:
+      213: 2309300824484873613
+    second: Blood Effect_1
+  - first:
+      213: 6682238347581480061
+    second: Blood Effect_2
+  - first:
+      213: -7430812337457387875
+    second: Blood Effect_3
+  - first:
+      213: -6133624738878172791
+    second: Blood Effect_4
+  - first:
+      213: -6622861542098177309
+    second: Blood Effect_5
+  - first:
+      213: -2628144080269908755
+    second: Blood Effect_6
+  - first:
+      213: 2168756145669239725
+    second: Blood Effect_7
+  - first:
+      213: 8775444415520166157
+    second: Blood Effect_8
+  - first:
+      213: -2161660341425143297
+    second: Blood Effect_9
+  - first:
+      213: -8280255911853260076
+    second: Blood Effect_10
+  - first:
+      213: 1846373740579435100
+    second: Blood Effect_11
+  - first:
+      213: 1217896825641497746
+    second: Blood Effect_12
+  - first:
+      213: 2965073155998945675
+    second: Blood Effect_13
+  - first:
+      213: -4276120700966526372
+    second: Blood Effect_14
+  - first:
+      213: 3429518006997576132
+    second: Blood Effect_15
+  - first:
+      213: -8492760619898396611
+    second: Blood Effect_16
+  - first:
+      213: -8523571485571167857
+    second: Blood Effect_17
+  - first:
+      213: 4394960569252415140
+    second: Blood Effect_18
+  - first:
+      213: 4609506129943556211
+    second: Blood Effect_19
+  - first:
+      213: -4930880667243275004
+    second: Blood Effect_20
+  - first:
+      213: 2354466826604642384
+    second: Blood Effect_21
+  - first:
+      213: -8143567832498459457
+    second: Blood Effect_22
+  - first:
+      213: 1062086558425898113
+    second: Blood Effect_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood Effect_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 548
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892915bfbe9dac160800000000000000
+      internalID: 7046684174531531416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 547
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8500fa5dd84c0020800000000000000
+      internalID: 2309300824484873613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 546
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c56148f541cbc50800000000000000
+      internalID: 6682238347581480061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9623499c8370e890800000000000000
+      internalID: -7430812337457387875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 545
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9815e9d1cccf0eaa0800000000000000
+      internalID: -6133624738878172791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 545
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e274a2548ed614a0800000000000000
+      internalID: -6622861542098177309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 444
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de467fc22e4f68bd0800000000000000
+      internalID: -2628144080269908755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 443
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37f035938f81e10800000000000000
+      internalID: 2168756145669239725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 443
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d34d9334a8c970800000000000000
+      internalID: 8775444415520166157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 442
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff10e485f5d3002e0800000000000000
+      internalID: -2161660341425143297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 441
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d288ac6e1f961d80800000000000000
+      internalID: -8280255911853260076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 440
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b8d17223af9910800000000000000
+      internalID: 1846373740579435100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 339
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294ff61d5b6d6e010800000000000000
+      internalID: 1217896825641497746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 338
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811d54635e062920800000000000000
+      internalID: 2965073155998945675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 337
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52223ad0ea28a4c0800000000000000
+      internalID: -4276120700966526372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c965edf478189f20800000000000000
+      internalID: 3429518006997576132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 335
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a7887637a32a80800000000000000
+      internalID: -8492760619898396611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 334
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c1e8c4e036b980800000000000000
+      internalID: -8523571485571167857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 233
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6832c2a590efc30800000000000000
+      internalID: 4394960569252415140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 232
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707549276148ff30800000000000000
+      internalID: 4609506129943556211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 233
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d9f17782ef19bb0800000000000000
+      internalID: -4930880667243275004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 232
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500633ba1fbca020800000000000000
+      internalID: 2354466826604642384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 235
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca1abe33c3cfe80800000000000000
+      internalID: -8143567832498459457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Effect_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 249
+        width: 15
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c51b3091a4dbe00800000000000000
+      internalID: 1062086558425898113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blood Effect_10: -8280255911853260076
+      Blood Effect_20: -4930880667243275004
+      Blood Effect_8: 8775444415520166157
+      Blood Effect_12: 1217896825641497746
+      Blood Effect_21: 2354466826604642384
+      Blood Effect_5: -6622861542098177309
+      Blood Effect_15: 3429518006997576132
+      Blood Effect_18: 4394960569252415140
+      Blood Effect_6: -2628144080269908755
+      Blood Effect_4: -6133624738878172791
+      Blood Effect_7: 2168756145669239725
+      Blood Effect_11: 1846373740579435100
+      Blood Effect_9: -2161660341425143297
+      Blood Effect_2: 6682238347581480061
+      Blood Effect_3: -7430812337457387875
+      Blood Effect_19: 4609506129943556211
+      Blood Effect_23: 1062086558425898113
+      Blood Effect_0: 7046684174531531416
+      Blood Effect_14: -4276120700966526372
+      Blood Effect_13: 2965073155998945675
+      Blood Effect_1: 2309300824484873613
+      Blood Effect_17: -8523571485571167857
+      Blood Effect_22: -8143567832498459457
+      Blood Effect_16: -8492760619898396611
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

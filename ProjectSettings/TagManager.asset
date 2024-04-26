@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chess
+  - Enemy
+  - Weapon
+  - Box
+  - Blocking
+  - Healthbar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocking
+  - Player
+  - Minimap
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1922615077
+    locked: 0
+  - name: InteractObj
+    uniqueID: 1681213075
+    locked: 0
+  - name: Wall
+    uniqueID: 1206352979
+    locked: 0
+  - name: Player
+    uniqueID: 542167565
+    locked: 0
+  - name: Weapon
+    uniqueID: 3098828687
+    locked: 0
+  - name: HidableObj
+    uniqueID: 1092276451
+    locked: 0
